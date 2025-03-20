@@ -1,0 +1,103 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.idb
+*.appx
+*.appxbundle
+*.appxupload
+*.apk
+*.ipa
+*.app
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Core
+appsettings*.json
+appsettings*.json.*
+wwwroot/lib/
+wwwroot/css/
+wwwroot/js/
+wwwroot/images/
+wwwroot/fonts/
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.cache
+*.config
+
+# Entity Framework
+Migrations/
+*.db
+*.sqlite
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+*.pid
+*.seed
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+.history/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Other
+*.vsix
+*.vscode
+*.sln.ide
+*.sln.cache
+*.sln.userprefs
+*.sln.docstates
+*.sln.ide
+*.sln.cache
+*.sln.userprefs
+*.sln.docstates
